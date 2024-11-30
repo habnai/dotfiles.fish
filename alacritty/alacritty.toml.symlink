@@ -31,4 +31,4 @@ style = "Regular"
 
 [general]
 live_config_reload = true
-import = ["~/.config/alacritty/catppuccin/catppuccin-mocha.toml"]
+import = ["~/.dotfiles/alacritty/catppuccin-mocha.toml"]
